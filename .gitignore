@@ -1,0 +1,11 @@
+__pycache__/
+bin/
+include/
+lib/
+share/
+Test/
+HEIC_Image/
+Test_ID_IMG/
+cache/
+.vscode/
+cache_out/
