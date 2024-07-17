@@ -27,7 +27,7 @@ This project comprises two main scripts to manage image uploads, processing, and
 
 ## Tech Flowchart
 
-![Project Logo](/image_for_git/Tech_flowchart.png)
+![Project Logo](/image_for_git/Tech.png)
 
 ## Installation
 
