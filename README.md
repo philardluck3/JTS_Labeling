@@ -9,9 +9,10 @@ This project comprises two main scripts to manage image uploads, processing, and
 3. **Retrieve processed results based on key IDs.**
 4. **Process images using a multiprocessing approach.**
 
-## User Flowchart
+## Flowchart
+![Project Logo](/image_for_git/POST_Method.png)
 
-![Project Logo](/image_for_git/User_flowchart.png)
+![Project Logo](/image_for_git/GET_Method.png)
 
 ## Requirements
 
