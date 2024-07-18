@@ -89,7 +89,7 @@ The FastAPI server handles image uploads and retrieval.
 
 1. **Start the FastAPI server:**
     ```bash
-    run main.py 
+    python3 main.py 
     ```
    *Run FastAPI server in background*
     ```bash
